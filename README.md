@@ -75,3 +75,4 @@ This repository implements a comprehensive information retrieval system for the 
   
 - **embeddings.npy** (Optional): Stores pre-computed sentence embeddings.
 
+![Interface](https://github.com/user-attachments/assets/b56877dc-a295-4b82-83a5-f60a4d08df92)
