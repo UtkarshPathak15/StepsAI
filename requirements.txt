@@ -1,0 +1,8 @@
+nltk
+bs4
+milvus
+pymilvus
+transformers
+sentence_transformers
+rank_bm25
+streamlit
